@@ -37,3 +37,6 @@ let q5 = "You shoot the swordsman and win the fight. However, you are captured a
 let gameOver5 = "You looked at the Ark and melted like butter in a microwave! " + gameOver
 
 let win = "When the Ark opened the villains were literally melted! It was crazy, but thankfully you had your eyes closed and were not affected." + newLine + "CONGRATULATIONS! THE VILLAINS HAVE BEEN DEFEATED AND YOU HAVE WON!!!"
+
+//
+
